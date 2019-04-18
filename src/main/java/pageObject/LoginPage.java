@@ -12,4 +12,10 @@ public class LoginPage {
     public void testLoginPage2() {
         System.out.println("Login page2");
     }
+
+    public void testLoginPageT1() {
+        System.out.println("Login pageT1");
+
+    }
 }
+
