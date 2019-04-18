@@ -8,4 +8,8 @@ public class LoginPage {
     public void testLoginPage1() {
         System.out.println("Login page1");
     }
+
+    public void testLoginPage2() {
+        System.out.println("Login page2");
+    }
 }
